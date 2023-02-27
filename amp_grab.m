@@ -1,7 +1,7 @@
 % This takes LENA-generated WAV files and CSV files and outputs the the
 % amplitude values for selected segment labels into a data file.  It then
 % plots the results and some descriptive stats.
-% M. VanDam 04 Oct 2011, www.vanDamMark.com
+% M. VanDam 04 Oct 2012, www.vanDamMark.com
 clear all;
 tic
 today = date;
